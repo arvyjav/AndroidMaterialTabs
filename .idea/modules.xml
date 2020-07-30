@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaterialTabs.iml" filepath="$PROJECT_DIR$/MaterialTabs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMaterialTabs.iml" filepath="$PROJECT_DIR$/AndroidMaterialTabs.iml" group="AndroidMaterialTabs" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndroidMaterialTabs/app" />
     </modules>
   </component>
 </project>
